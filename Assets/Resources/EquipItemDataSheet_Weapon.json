@@ -1,0 +1,974 @@
+{
+    "typeName": "EquipItemDataSheet",
+    "prefixID": 1701300000,
+    "infos": [
+        {
+            "tid": 1701300001,
+            "description": "몽둥이",
+            "name": "str_ui_equip_weapon_001",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 0,
+            "starLevel": 1,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "30",
+                    "perLevel": "0.3",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "10",
+                    "perLevel": "0.1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300002,
+            "description": "돌도끼",
+            "name": "str_ui_equip_weapon_002",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 0,
+            "starLevel": 2,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "36",
+                    "perLevel": "0.36",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "11",
+                    "perLevel": "0.12",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300003,
+            "description": "나무망치",
+            "name": "str_ui_equip_weapon_003",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 0,
+            "starLevel": 3,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "45",
+                    "perLevel": "0.45",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "12",
+                    "perLevel": "0.13",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300004,
+            "description": "낡은 검",
+            "name": "str_ui_equip_weapon_004",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 0,
+            "starLevel": 4,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "60",
+                    "perLevel": "0.6",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "13",
+                    "perLevel": "0.13",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300005,
+            "description": "징박힌 곤봉",
+            "name": "str_ui_equip_weapon_005",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 1,
+            "starLevel": 1,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "100",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "20",
+                    "perLevel": "0.2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300006,
+            "description": "벌목도끼",
+            "name": "str_ui_equip_weapon_006",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 1,
+            "starLevel": 2,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "150",
+                    "perLevel": "1.5",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "21",
+                    "perLevel": "0.21",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300007,
+            "description": "구리검",
+            "name": "str_ui_equip_weapon_007",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 1,
+            "starLevel": 3,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "200",
+                    "perLevel": "2.0",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "22",
+                    "perLevel": "0.22",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300008,
+            "description": "구리창",
+            "name": "str_ui_equip_weapon_008",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 1,
+            "starLevel": 4,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "250",
+                    "perLevel": "2.5",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "23",
+                    "perLevel": "0.23",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300009,
+            "description": "쇠망치",
+            "name": "str_ui_equip_weapon_009",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starLevel": 1,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "450",
+                    "perLevel": "4.5",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "50",
+                    "perLevel": "0.5",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300010,
+            "description": "쇠도끼",
+            "name": "str_ui_equip_weapon_010",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starLevel": 2,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "540",
+                    "perLevel": "5.4",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "51",
+                    "perLevel": "0.51",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300011,
+            "description": "강철창",
+            "name": "str_ui_equip_weapon_011",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starLevel": 3,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "650",
+                    "perLevel": "6.5",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "52",
+                    "perLevel": "0.52",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300012,
+            "description": "티타늄검",
+            "name": "str_ui_equip_weapon_012",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starLevel": 4,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "780",
+                    "perLevel": "7.8",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "53",
+                    "perLevel": "0.53",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300013,
+            "description": "트롤해머",
+            "name": "str_ui_equip_weapon_013",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starLevel": 1,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "1400",
+                    "perLevel": "14",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "80",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300014,
+            "description": "오우거액스",
+            "name": "str_ui_equip_weapon_014",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starLevel": 2,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "2200",
+                    "perLevel": "22",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "85",
+                    "perLevel": "1.1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300015,
+            "description": "티타늄창",
+            "name": "str_ui_equip_weapon_015",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starLevel": 3,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "2300",
+                    "perLevel": "23",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "90",
+                    "perLevel": "1.2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300016,
+            "description": "야만부족의 검",
+            "name": "str_ui_equip_weapon_016",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starLevel": 4,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "2500",
+                    "perLevel": "25",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "95",
+                    "perLevel": "1.3",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300017,
+            "description": "폭발의 망치",
+            "name": "str_ui_equip_weapon_017",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starLevel": 1,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "7000",
+                    "perLevel": "70",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "150",
+                    "perLevel": "5",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "2.5",
+                    "perLevel": "0.8",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300018,
+            "description": "바다의 검",
+            "name": "str_ui_equip_weapon_018",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starLevel": 2,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "8000",
+                    "perLevel": "80",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "160",
+                    "perLevel": "6",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "3",
+                    "perLevel": "0.1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300019,
+            "description": "맹독갈퀴 도끼",
+            "name": "str_ui_equip_weapon_019",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starLevel": 3,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "10000",
+                    "perLevel": "100",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "180",
+                    "perLevel": "7",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "3.5",
+                    "perLevel": "0.12",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300020,
+            "description": "뇌제의 검",
+            "name": "str_ui_equip_weapon_020",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starLevel": 4,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "12000",
+                    "perLevel": "120",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "200",
+                    "perLevel": "8",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "4",
+                    "perLevel": "0.14",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300021,
+            "description": "뱀파이어 액스",
+            "name": "str_ui_equip_weapon_021",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starLevel": 1,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "32000",
+                    "perLevel": "320",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "500",
+                    "perLevel": "10",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "30",
+                    "perLevel": "0.3",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300022,
+            "description": "천둥의 망치",
+            "name": "str_ui_equip_weapon_022",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starLevel": 2,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "38000",
+                    "perLevel": "380",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "550",
+                    "perLevel": "20",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "35",
+                    "perLevel": "0.4",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300023,
+            "description": "어둠의 검",
+            "name": "str_ui_equip_weapon_023",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starLevel": 3,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "46000",
+                    "perLevel": "460",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "600",
+                    "perLevel": "30",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "40",
+                    "perLevel": "0.5",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300024,
+            "description": "기사단의 보검",
+            "name": "str_ui_equip_weapon_024",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starLevel": 4,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "55000",
+                    "perLevel": "550",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "650",
+                    "perLevel": "40",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "45",
+                    "perLevel": "0.6",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300025,
+            "description": "미카엘의 지팡이",
+            "name": "str_ui_equip_weapon_025",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starLevel": 1,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "100000",
+                    "perLevel": "1000",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "1000",
+                    "perLevel": "100",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "80",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 60,
+                    "modeType": 1,
+                    "value": "30",
+                    "perLevel": "0.8",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300026,
+            "description": "이프리트의 창",
+            "name": "str_ui_equip_weapon_026",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starLevel": 2,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "120000",
+                    "perLevel": "1200",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "1500",
+                    "perLevel": "150",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "90",
+                    "perLevel": "1.2",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 60,
+                    "modeType": 1,
+                    "value": "40",
+                    "perLevel": "0.9",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300027,
+            "description": "대지신의 도끼",
+            "name": "str_ui_equip_weapon_027",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starLevel": 3,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "140000",
+                    "perLevel": "4000",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "2000",
+                    "perLevel": "200",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "100",
+                    "perLevel": "1.4",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 60,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1701300028,
+            "description": "빛의 용사의 검",
+            "name": "str_ui_equip_weapon_028",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starLevel": 4,
+            "equipType": 0,
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "200000",
+                    "perLevel": "6000",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "3500",
+                    "perLevel": "350",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "120",
+                    "perLevel": "2",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 60,
+                    "modeType": 1,
+                    "value": "60",
+                    "perLevel": "1.5",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        }
+    ]
+}

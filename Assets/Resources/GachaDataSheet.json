@@ -1,0 +1,1452 @@
+{
+    "typeName": "GachaDataSheet",
+    "prefixID": 3500000000,
+    "infos": [
+        {
+            "tid": 3500000001,
+            "description": "장비소환",
+            "name": "str_ui_gacha_equip",
+            "tooltip": "",
+            "getPlace": "",
+            "gachaType": 1,
+            "summonInfos": [
+                {
+                    "summonType": 0,
+                    "defaultCount": 10,
+                    "addCount": 0,
+                    "maxCount": 10,
+                    "itemTid": 9100000002,
+                    "cost": 500,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 1,
+                    "defaultCount": 100,
+                    "addCount": 0,
+                    "maxCount": 100,
+                    "itemTid": 9100000002,
+                    "cost": 5000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 2,
+                    "defaultCount": 10,
+                    "addCount": 1,
+                    "maxCount": 30,
+                    "itemTid": 0,
+                    "cost": 1,
+                    "summonMaxCount": 3,
+                    "cooltime": 600.0
+                },
+                {
+                    "summonType": 3,
+                    "defaultCount": 10,
+                    "addCount": 0,
+                    "maxCount": 10,
+                    "itemTid": 9100000029,
+                    "cost": 10,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 4,
+                    "defaultCount": 100,
+                    "addCount": 0,
+                    "maxCount": 100,
+                    "itemTid": 9100000029,
+                    "cost": 100,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 5,
+                    "defaultCount": 300,
+                    "addCount": 0,
+                    "maxCount": 300,
+                    "itemTid": 9100000002,
+                    "cost": 15000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 7,
+                    "defaultCount": 1000,
+                    "addCount": 0,
+                    "maxCount": 1000,
+                    "itemTid": 9100000002,
+                    "cost": 50000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 6,
+                    "defaultCount": 300,
+                    "addCount": 0,
+                    "maxCount": 300,
+                    "itemTid": 9100000029,
+                    "cost": 300,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 8,
+                    "defaultCount": 1000,
+                    "addCount": 0,
+                    "maxCount": 1000,
+                    "itemTid": 9100000029,
+                    "cost": 1000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                }
+            ],
+            "gachaLevelInfos": [
+                {
+                    "level": 0,
+                    "exp": 10,
+                    "reward": {
+                        "category": 1,
+                        "tid": 0,
+                        "count": "",
+                        "chance": 0.0,
+                        "countMin": "",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 1,
+                    "exp": 100,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300007,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "0",
+                        "countPerStage": "0"
+                    }
+                },
+                {
+                    "level": 2,
+                    "exp": 300,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300008,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "0",
+                        "countPerStage": "0"
+                    }
+                },
+                {
+                    "level": 3,
+                    "exp": 500,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300009,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "0",
+                        "countPerStage": "0"
+                    }
+                },
+                {
+                    "level": 4,
+                    "exp": 900,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300010,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "0",
+                        "countPerStage": "0"
+                    }
+                },
+                {
+                    "level": 5,
+                    "exp": 1300,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300012,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "0",
+                        "countPerStage": "0"
+                    }
+                },
+                {
+                    "level": 6,
+                    "exp": 1700,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300013,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "0",
+                        "countPerStage": "0"
+                    }
+                },
+                {
+                    "level": 7,
+                    "exp": 2300,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300014,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 8,
+                    "exp": 2900,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300016,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 9,
+                    "exp": 3700,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300018,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 10,
+                    "exp": 4500,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300020,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 11,
+                    "exp": 6100,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300021,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 12,
+                    "exp": 7700,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300021,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 13,
+                    "exp": 10900,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300022,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 14,
+                    "exp": 14100,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300022,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 15,
+                    "exp": 20500,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300023,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 16,
+                    "exp": 26900,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300023,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 17,
+                    "exp": 39700,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300024,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 18,
+                    "exp": 54500,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300024,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 19,
+                    "exp": 78100,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300024,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 20,
+                    "exp": 103700,
+                    "reward": {
+                        "category": 1,
+                        "tid": 1701300024,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "1",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                }
+            ],
+            "chances": [
+                {
+                    "grade": 0,
+                    "chances": [
+                        9000,
+                        8300,
+                        6000,
+                        4850,
+                        3230,
+                        1650,
+                        1130,
+                        700,
+                        500,
+                        100,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "grade": 1,
+                    "chances": [
+                        1500,
+                        1300,
+                        2719,
+                        3343,
+                        4560,
+                        5000,
+                        4580,
+                        3795,
+                        3174,
+                        2874,
+                        2251,
+                        1923,
+                        1611,
+                        1257,
+                        921,
+                        754,
+                        634,
+                        558,
+                        412,
+                        350,
+                        100
+                    ]
+                },
+                {
+                    "grade": 2,
+                    "chances": [
+                        0,
+                        400,
+                        880,
+                        1175,
+                        1317,
+                        2226,
+                        3000,
+                        3985,
+                        4486,
+                        4906,
+                        4257,
+                        3512,
+                        2884,
+                        2593,
+                        1782,
+                        1548,
+                        1285,
+                        917,
+                        735,
+                        510,
+                        300
+                    ]
+                },
+                {
+                    "grade": 3,
+                    "chances": [
+                        0,
+                        0,
+                        300,
+                        430,
+                        590,
+                        720,
+                        785,
+                        810,
+                        920,
+                        1130,
+                        2432,
+                        3435,
+                        4305,
+                        4840,
+                        5877,
+                        6173,
+                        6451,
+                        6790,
+                        7013,
+                        7195,
+                        7400
+                    ]
+                },
+                {
+                    "grade": 4,
+                    "chances": [
+                        0,
+                        0,
+                        100,
+                        200,
+                        300,
+                        400,
+                        500,
+                        700,
+                        900,
+                        950,
+                        1000,
+                        1050,
+                        1100,
+                        1200,
+                        1300,
+                        1400,
+                        1500,
+                        1600,
+                        1700,
+                        1800,
+                        2000
+                    ]
+                },
+                {
+                    "grade": 5,
+                    "chances": [
+                        0,
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        10,
+                        20,
+                        40,
+                        60,
+                        80,
+                        100,
+                        110,
+                        120,
+                        125,
+                        130,
+                        135,
+                        140,
+                        145,
+                        200
+                    ]
+                }
+            ]
+        },
+        {
+            "tid": 3500000002,
+            "description": "스킬소환",
+            "name": "str_ui_gacha_skill",
+            "tooltip": "",
+            "getPlace": "",
+            "gachaType": 2,
+            "summonInfos": [
+                {
+                    "summonType": 0,
+                    "defaultCount": 10,
+                    "addCount": 0,
+                    "maxCount": 10,
+                    "itemTid": 9100000002,
+                    "cost": 500,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 1,
+                    "defaultCount": 100,
+                    "addCount": 0,
+                    "maxCount": 100,
+                    "itemTid": 9100000002,
+                    "cost": 5000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 2,
+                    "defaultCount": 10,
+                    "addCount": 1,
+                    "maxCount": 30,
+                    "itemTid": 0,
+                    "cost": 1,
+                    "summonMaxCount": 3,
+                    "cooltime": 600.0
+                },
+                {
+                    "summonType": 3,
+                    "defaultCount": 10,
+                    "addCount": 0,
+                    "maxCount": 10,
+                    "itemTid": 9100000030,
+                    "cost": 10,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 4,
+                    "defaultCount": 100,
+                    "addCount": 0,
+                    "maxCount": 100,
+                    "itemTid": 9100000030,
+                    "cost": 100,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 5,
+                    "defaultCount": 300,
+                    "addCount": 0,
+                    "maxCount": 300,
+                    "itemTid": 9100000002,
+                    "cost": 15000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 7,
+                    "defaultCount": 1000,
+                    "addCount": 0,
+                    "maxCount": 1000,
+                    "itemTid": 9100000002,
+                    "cost": 50000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 6,
+                    "defaultCount": 300,
+                    "addCount": 0,
+                    "maxCount": 300,
+                    "itemTid": 9100000030,
+                    "cost": 300,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 8,
+                    "defaultCount": 1000,
+                    "addCount": 0,
+                    "maxCount": 1000,
+                    "itemTid": 9100000030,
+                    "cost": 1000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                }
+            ],
+            "gachaLevelInfos": [
+                {
+                    "level": 0,
+                    "exp": 10,
+                    "reward": {
+                        "category": 5,
+                        "tid": 0,
+                        "count": "",
+                        "chance": 0.0,
+                        "countMin": "",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 1,
+                    "exp": 100,
+                    "reward": {
+                        "category": 5,
+                        "tid": 1701600002,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "10",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 2,
+                    "exp": 300,
+                    "reward": {
+                        "category": 5,
+                        "tid": 1701600002,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "20",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 3,
+                    "exp": 500,
+                    "reward": {
+                        "category": 5,
+                        "tid": 1701600008,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "30",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 4,
+                    "exp": 900,
+                    "reward": {
+                        "category": 5,
+                        "tid": 1701600004,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "30",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 5,
+                    "exp": 1100,
+                    "reward": {
+                        "category": 5,
+                        "tid": 1701600005,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "50",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 6,
+                    "exp": 1300,
+                    "reward": {
+                        "category": 5,
+                        "tid": 1701600003,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "50",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 7,
+                    "exp": 1800,
+                    "reward": {
+                        "category": 4,
+                        "tid": 1701600007,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "50",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 8,
+                    "exp": 2200,
+                    "reward": {
+                        "category": 5,
+                        "tid": 1701600006,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "50",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 9,
+                    "exp": 3000,
+                    "reward": {
+                        "category": 5,
+                        "tid": 1701600009,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "50",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 10,
+                    "exp": 4000,
+                    "reward": {
+                        "category": 5,
+                        "tid": 1701600003,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "50",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                }
+            ],
+            "chances": [
+                {
+                    "grade": 0,
+                    "chances": [
+                        8500,
+                        8300,
+                        6000,
+                        4850,
+                        3230,
+                        1650,
+                        1820,
+                        2030,
+                        1950,
+                        1710,
+                        1500
+                    ]
+                },
+                {
+                    "grade": 1,
+                    "chances": [
+                        1500,
+                        1300,
+                        2710,
+                        3325,
+                        4533,
+                        4954,
+                        4485,
+                        3605,
+                        2894,
+                        2514,
+                        2011
+                    ]
+                },
+                {
+                    "grade": 2,
+                    "chances": [
+                        0,
+                        400,
+                        880,
+                        1175,
+                        1317,
+                        2226,
+                        2310,
+                        2655,
+                        3036,
+                        2706,
+                        2657
+                    ]
+                },
+                {
+                    "grade": 3,
+                    "chances": [
+                        0,
+                        0,
+                        300,
+                        430,
+                        590,
+                        720,
+                        785,
+                        810,
+                        1070,
+                        1870,
+                        2332
+                    ]
+                },
+                {
+                    "grade": 4,
+                    "chances": [
+                        0,
+                        0,
+                        100,
+                        200,
+                        300,
+                        400,
+                        500,
+                        700,
+                        750,
+                        800,
+                        1000
+                    ]
+                },
+                {
+                    "grade": 5,
+                    "chances": [
+                        0,
+                        0,
+                        10,
+                        20,
+                        30,
+                        50,
+                        100,
+                        200,
+                        300,
+                        400,
+                        500
+                    ]
+                }
+            ]
+        },
+        {
+            "tid": 3500000003,
+            "description": "동료소환",
+            "name": "str_ui_gacha_pet",
+            "tooltip": "",
+            "getPlace": "",
+            "gachaType": 3,
+            "summonInfos": [
+                {
+                    "summonType": 0,
+                    "defaultCount": 10,
+                    "addCount": 0,
+                    "maxCount": 10,
+                    "itemTid": 9100000002,
+                    "cost": 500,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 1,
+                    "defaultCount": 100,
+                    "addCount": 0,
+                    "maxCount": 100,
+                    "itemTid": 9100000002,
+                    "cost": 5000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 2,
+                    "defaultCount": 10,
+                    "addCount": 1,
+                    "maxCount": 30,
+                    "itemTid": 0,
+                    "cost": 1,
+                    "summonMaxCount": 3,
+                    "cooltime": 600.0
+                },
+                {
+                    "summonType": 3,
+                    "defaultCount": 10,
+                    "addCount": 0,
+                    "maxCount": 10,
+                    "itemTid": 9100000031,
+                    "cost": 10,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 4,
+                    "defaultCount": 100,
+                    "addCount": 0,
+                    "maxCount": 100,
+                    "itemTid": 9100000031,
+                    "cost": 100,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 5,
+                    "defaultCount": 300,
+                    "addCount": 0,
+                    "maxCount": 300,
+                    "itemTid": 9100000002,
+                    "cost": 15000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 7,
+                    "defaultCount": 1000,
+                    "addCount": 0,
+                    "maxCount": 1000,
+                    "itemTid": 9100000002,
+                    "cost": 50000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 6,
+                    "defaultCount": 300,
+                    "addCount": 0,
+                    "maxCount": 300,
+                    "itemTid": 9100000031,
+                    "cost": 300,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 8,
+                    "defaultCount": 1000,
+                    "addCount": 0,
+                    "maxCount": 1000,
+                    "itemTid": 9100000031,
+                    "cost": 1000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                }
+            ],
+            "gachaLevelInfos": [
+                {
+                    "level": 0,
+                    "exp": 10,
+                    "reward": {
+                        "category": 3,
+                        "tid": 0,
+                        "count": "",
+                        "chance": 0.0,
+                        "countMin": "",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 1,
+                    "exp": 100,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000003,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "10",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 2,
+                    "exp": 300,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000005,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "10",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 3,
+                    "exp": 500,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000008,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "10",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 4,
+                    "exp": 900,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000001,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "30",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 5,
+                    "exp": 1100,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000002,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "30",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 6,
+                    "exp": 1300,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000004,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "50",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 7,
+                    "exp": 1800,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000006,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "50",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 8,
+                    "exp": 2200,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000009,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "50",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 9,
+                    "exp": 3000,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000010,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "50",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 10,
+                    "exp": 4000,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000016,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "30",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 11,
+                    "exp": 7000,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000013,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "30",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 12,
+                    "exp": 8500,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000014,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "30",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 13,
+                    "exp": 11000,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000015,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "30",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 14,
+                    "exp": 14800,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000017,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "5",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                },
+                {
+                    "level": 15,
+                    "exp": 20000,
+                    "reward": {
+                        "category": 3,
+                        "tid": 1300000020,
+                        "count": "",
+                        "chance": 100.0,
+                        "countMin": "5",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                }
+            ],
+            "chances": [
+                {
+                    "grade": 2,
+                    "chances": [
+                        9500,
+                        8500,
+                        8000,
+                        7534,
+                        7054,
+                        6570,
+                        6130,
+                        5770,
+                        5460,
+                        4650,
+                        4000,
+                        3900,
+                        3850,
+                        3800,
+                        3750,
+                        3650
+                    ]
+                },
+                {
+                    "grade": 3,
+                    "chances": [
+                        500,
+                        1500,
+                        1890,
+                        2296,
+                        2666,
+                        3080,
+                        3420,
+                        3630,
+                        3740,
+                        4250,
+                        4500,
+                        4350,
+                        4220,
+                        4100,
+                        3980,
+                        3900
+                    ]
+                },
+                {
+                    "grade": 4,
+                    "chances": [
+                        0,
+                        0,
+                        100,
+                        150,
+                        250,
+                        300,
+                        350,
+                        400,
+                        500,
+                        700,
+                        1000,
+                        1100,
+                        1200,
+                        1300,
+                        1400,
+                        1500
+                    ]
+                },
+                {
+                    "grade": 5,
+                    "chances": [
+                        0,
+                        0,
+                        10,
+                        20,
+                        30,
+                        50,
+                        100,
+                        200,
+                        300,
+                        400,
+                        500,
+                        550,
+                        600,
+                        650,
+                        700,
+                        750
+                    ]
+                },
+                {
+                    "grade": 6,
+                    "chances": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        100,
+                        120,
+                        150,
+                        170,
+                        200
+                    ]
+                }
+            ]
+        },
+        {
+            "tid": 3500000004,
+            "description": "골동품소환",
+            "name": "str_ui_gacha_relic",
+            "tooltip": "",
+            "getPlace": "",
+            "gachaType": 4,
+            "summonInfos": [
+                {
+                    "summonType": 0,
+                    "defaultCount": 10,
+                    "addCount": 0,
+                    "maxCount": 10,
+                    "itemTid": 9100000002,
+                    "cost": 500,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 1,
+                    "defaultCount": 100,
+                    "addCount": 0,
+                    "maxCount": 100,
+                    "itemTid": 9100000002,
+                    "cost": 5000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 2,
+                    "defaultCount": 10,
+                    "addCount": 1,
+                    "maxCount": 30,
+                    "itemTid": 0,
+                    "cost": 1,
+                    "summonMaxCount": 3,
+                    "cooltime": 600.0
+                },
+                {
+                    "summonType": 3,
+                    "defaultCount": 10,
+                    "addCount": 0,
+                    "maxCount": 10,
+                    "itemTid": 9100000032,
+                    "cost": 10,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 4,
+                    "defaultCount": 100,
+                    "addCount": 0,
+                    "maxCount": 100,
+                    "itemTid": 9100000032,
+                    "cost": 100,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 5,
+                    "defaultCount": 300,
+                    "addCount": 0,
+                    "maxCount": 300,
+                    "itemTid": 9100000002,
+                    "cost": 15000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 7,
+                    "defaultCount": 1000,
+                    "addCount": 0,
+                    "maxCount": 1000,
+                    "itemTid": 9100000002,
+                    "cost": 50000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 6,
+                    "defaultCount": 300,
+                    "addCount": 0,
+                    "maxCount": 300,
+                    "itemTid": 9100000032,
+                    "cost": 300,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                },
+                {
+                    "summonType": 8,
+                    "defaultCount": 1000,
+                    "addCount": 0,
+                    "maxCount": 1000,
+                    "itemTid": 9100000032,
+                    "cost": 1000,
+                    "summonMaxCount": 0,
+                    "cooltime": 0.0
+                }
+            ],
+            "gachaLevelInfos": [
+                {
+                    "level": 0,
+                    "exp": 0,
+                    "reward": {
+                        "category": 8,
+                        "tid": 0,
+                        "count": "",
+                        "chance": 0.0,
+                        "countMin": "",
+                        "countMax": "",
+                        "countPerStage": ""
+                    }
+                }
+            ],
+            "chances": [
+                {
+                    "grade": 0,
+                    "chances": [
+                        3500
+                    ]
+                },
+                {
+                    "grade": 1,
+                    "chances": [
+                        2900
+                    ]
+                },
+                {
+                    "grade": 2,
+                    "chances": [
+                        1500
+                    ]
+                },
+                {
+                    "grade": 3,
+                    "chances": [
+                        1100
+                    ]
+                },
+                {
+                    "grade": 4,
+                    "chances": [
+                        700
+                    ]
+                },
+                {
+                    "grade": 5,
+                    "chances": [
+                        300
+                    ]
+                }
+            ]
+        }
+    ]
+}

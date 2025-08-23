@@ -1,0 +1,1671 @@
+{
+    "typeName": "EnemyUnitDataSheet",
+    "prefixID": 4300000000,
+    "infos": [
+        {
+            "tid": 4300000001,
+            "description": "초록 슬라임",
+            "name": "str_ui_enemy_name_001",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000001",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 0,
+                    "modeType": 0,
+                    "value": "",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000002,
+            "description": "핑크슬라임",
+            "name": "str_ui_enemy_name_002",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000002",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000003,
+            "description": "레드슬라임",
+            "name": "str_ui_enemy_name_003",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000003",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000004,
+            "description": "엔젤 슬라임",
+            "name": "str_ui_enemy_name_004",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000004",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000005,
+            "description": "풀숭이",
+            "name": "str_ui_enemy_name_005",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000005",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000006,
+            "description": "어둠거미",
+            "name": "str_ui_enemy_name_006",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000006",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000007,
+            "description": "솔숭이",
+            "name": "str_ui_enemy_name_007",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000007",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000008,
+            "description": "그린 리자드",
+            "name": "str_ui_enemy_name_008",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000008",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000009,
+            "description": "블루 리자드",
+            "name": "str_ui_enemy_name_009",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000009",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000010,
+            "description": "레드 리자드",
+            "name": "str_ui_enemy_name_010",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000010",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000011,
+            "description": "야수족 전사",
+            "name": "str_ui_enemy_name_011",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000011",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000012,
+            "description": "야수족 주술사",
+            "name": "str_ui_enemy_name_012",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000012",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000013,
+            "description": "야수족 용사",
+            "name": "str_ui_enemy_name_013",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000013",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000014,
+            "description": "작은 숲정령",
+            "name": "str_ui_enemy_name_014",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000014",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000015,
+            "description": "작은 풀정령",
+            "name": "str_ui_enemy_name_015",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000015",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000016,
+            "description": "타락한 숲정령",
+            "name": "str_ui_enemy_name_016",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000016",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000017,
+            "description": "이끼 낀 나무정령",
+            "name": "str_ui_enemy_name_017",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000017",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000018,
+            "description": "트렌트",
+            "name": "str_ui_enemy_name_018",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000018",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000019,
+            "description": "분노한 나무정령",
+            "name": "str_ui_enemy_name_019",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000019",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000020,
+            "description": "분노에 찬 오우거",
+            "name": "str_ui_enemy_name_020",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000020",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000021,
+            "description": "광기에 찬 오우거",
+            "name": "str_ui_enemy_name_021",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000021",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000022,
+            "description": "타락한 오우거 킹",
+            "name": "str_ui_enemy_name_022",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000022",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000023,
+            "description": "얼어붙은 해골 궁병",
+            "name": "str_ui_enemy_name_023",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000023",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000024,
+            "description": "얼어붙은 해골 병사",
+            "name": "str_ui_enemy_name_024",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000024",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000025,
+            "description": "얼어붙은 해골 마법사",
+            "name": "str_ui_enemy_name_025",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000025",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000026,
+            "description": "지옥불 악마",
+            "name": "str_ui_enemy_name_026",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000026",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000027,
+            "description": "지옥불 수문장",
+            "name": "str_ui_enemy_name_027",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000027",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000028,
+            "description": "지옥불 여왕",
+            "name": "str_ui_enemy_name_028",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000028",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000029,
+            "description": "임프",
+            "name": "str_ui_enemy_name_029",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000029",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000030,
+            "description": "암흑 기사",
+            "name": "str_ui_enemy_name_030",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000030",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000031,
+            "description": "절망의 데스",
+            "name": "str_ui_enemy_name_031",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000031",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000032,
+            "description": "고블린 병사",
+            "name": "str_ui_enemy_name_032",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000032",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000033,
+            "description": "고블린 도적",
+            "name": "str_ui_enemy_name_033",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000033",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000034,
+            "description": "고블린 주술사",
+            "name": "str_ui_enemy_name_034",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000034",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000035,
+            "description": "이끼 낀 골렘",
+            "name": "str_ui_enemy_name_035",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000035",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000036,
+            "description": "마력이 폭주한 골렘",
+            "name": "str_ui_enemy_name_036",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000036",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "20",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000037,
+            "description": "크리스탈 자이언트",
+            "name": "str_ui_enemy_name_037",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000037",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000038,
+            "description": "적도깨비",
+            "name": "str_ui_enemy_name_038",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000038",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000039,
+            "description": "청도깨비",
+            "name": "str_ui_enemy_name_039",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000039",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000040,
+            "description": "돌연변이 돼지",
+            "name": "str_ui_enemy_name_040",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000040",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000041,
+            "description": "돌연변이 새",
+            "name": "str_ui_enemy_name_041",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000041",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000042,
+            "description": "여왕벌",
+            "name": "str_ui_enemy_name_042",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000042",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000043,
+            "description": "분노한 대지의 악마",
+            "name": "str_ui_enemy_name_043",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000043",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "100",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "100",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000044,
+            "description": "타락한 화염의 악마",
+            "name": "str_ui_enemy_name_044",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000044",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "50",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "50",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000045,
+            "description": "작은 벌",
+            "name": "str_ui_enemy_name_045",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000045",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000046,
+            "description": "멧돼지",
+            "name": "str_ui_enemy_name_046",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000046",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000047,
+            "description": "동굴 버섯",
+            "name": "str_ui_enemy_name_047",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000047",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000048,
+            "description": "레드 드래곤",
+            "name": "str_ui_enemy_name_048",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000048",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000049,
+            "description": "회춘1",
+            "name": "str_ui_enemy_name_049",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "player_01_farmer",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000050,
+            "description": "회춘2",
+            "name": "str_ui_enemy_name_050",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "player_01_mawang",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000051,
+            "description": "회춘3",
+            "name": "str_ui_enemy_name_051",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "player_01_steel",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000052,
+            "description": "회춘4",
+            "name": "str_ui_enemy_name_052",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "player_01_mid",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000053,
+            "description": "회춘5",
+            "name": "str_ui_enemy_name_053",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "player_01_mid2",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000054,
+            "description": "회춘6",
+            "name": "str_ui_enemy_name_054",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "player_01_young",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000055,
+            "description": "추석1",
+            "name": "str_ui_enemy_name_055",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000055",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000056,
+            "description": "추석2",
+            "name": "str_ui_enemy_name_056",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "monster_4300000056",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000057,
+            "description": "추석3",
+            "name": "str_ui_enemy_name_057",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "monster_4300000057",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000058,
+            "description": "회춘7",
+            "name": "str_ui_enemy_name_058",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "player_01_young2",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000059,
+            "description": "회춘8",
+            "name": "str_ui_enemy_name_059",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "player_01_young3",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000060,
+            "description": "타락한 슬라임",
+            "name": "str_ui_enemy_name_060",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000061,
+            "description": "타락한 핑크 슬라임",
+            "name": "str_ui_enemy_name_061",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000062,
+            "description": "데빌 슬라임",
+            "name": "str_ui_enemy_name_062",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400010,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000063,
+            "description": "고블린 도적",
+            "name": "str_ui_enemy_name_063",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000064,
+            "description": "고블린 방패병",
+            "name": "str_ui_enemy_name_064",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000065,
+            "description": "고블린주술사",
+            "name": "str_ui_enemy_name_065",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400011,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000066,
+            "description": "화염2",
+            "name": "str_ui_enemy_name_066",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400002,
+            "skillTidList": [],
+            "maxPhase": 1,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "50",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "50",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000067,
+            "description": "화염3",
+            "name": "str_ui_enemy_name_067",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400002,
+            "skillTidList": [],
+            "maxPhase": 2,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "50",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "50",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000068,
+            "description": "대지2",
+            "name": "str_ui_enemy_name_068",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400006,
+            "skillTidList": [],
+            "maxPhase": 1,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "100",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 2,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "100",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000069,
+            "description": "대지3",
+            "name": "str_ui_enemy_name_069",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400006,
+            "skillTidList": [],
+            "maxPhase": 2,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "100",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "150",
+                    "perLevel": "100",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000070,
+            "description": "핑크젤리",
+            "name": "str_ui_enemy_name_070",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000071,
+            "description": "그린젤리",
+            "name": "str_ui_enemy_name_071",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 1,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000072,
+            "description": "퍼플젤리",
+            "name": "str_ui_enemy_name_072",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000073,
+            "description": "대왕젤리",
+            "name": "str_ui_enemy_name_073",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400012,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000074,
+            "description": "회춘9",
+            "name": "str_ui_enemy_name_074",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "player_01_young4",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000075,
+            "description": "오렌지 캔디",
+            "name": "str_ui_enemy_name_075",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000076,
+            "description": "민트 캔디",
+            "name": "str_ui_enemy_name_076",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000077,
+            "description": "레인보우 캔디",
+            "name": "str_ui_enemy_name_077",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000078,
+            "description": "분노한 여왕벌",
+            "name": "str_ui_enemy_name_078",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400013,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000079,
+            "description": "분노한 바다새",
+            "name": "str_ui_enemy_name_079",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400014,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000080,
+            "description": "승급10",
+            "name": "str_ui_enemy_name_080",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": [
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4300000081,
+            "description": "",
+            "name": "str_ui_enemy_name_081",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000082,
+            "description": "",
+            "name": "str_ui_enemy_name_082",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000083,
+            "description": "",
+            "name": "str_ui_enemy_name_083",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000084,
+            "description": "",
+            "name": "str_ui_enemy_name_084",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 2,
+            "resource": "",
+            "skillTid": 1710400001,
+            "skillTidList": [],
+            "maxPhase": 0,
+            "attackRange": 0.0,
+            "phaseBuff": []
+        },
+        {
+            "tid": 4300000085,
+            "description": "데미지보스",
+            "name": "str_ui_enemy_name_085",
+            "tooltip": "",
+            "getPlace": "",
+            "type": 3,
+            "resource": "",
+            "skillTid": 1710400015,
+            "skillTidList": [
+                1710400017,
+                1710400018
+            ],
+            "maxPhase": 0,
+            "attackRange": 30.0,
+            "phaseBuff": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "170000",
+                    "perLevel": "170000",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "20000",
+                    "perLevel": "20000",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 190,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ]
+        }
+    ]
+}

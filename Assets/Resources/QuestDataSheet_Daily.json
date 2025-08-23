@@ -1,0 +1,231 @@
+{
+    "typeName": "QuestDataSheet",
+    "prefixID": 6552000000,
+    "infos": [
+        {
+            "tid": 6550000001,
+            "description": "몬스터사냥",
+            "name": "",
+            "tooltip": "",
+            "getPlace": "",
+            "questName": "str_ui_quest_daily_001",
+            "questTitle": "",
+            "questType": 1,
+            "goalType": 2,
+            "goalTid": 0,
+            "goalValue": "1000",
+            "rewards": [
+                {
+                    "category": 4,
+                    "tid": 9100000002,
+                    "count": "",
+                    "chance": 100.0,
+                    "countMin": "2000",
+                    "countMax": "2000",
+                    "countPerStage": "0"
+                }
+            ],
+            "useGuide": false
+        },
+        {
+            "tid": 6550000002,
+            "description": "공격력 레벨업하기",
+            "name": "",
+            "tooltip": "",
+            "getPlace": "",
+            "questName": "str_ui_quest_daily_002",
+            "questTitle": "",
+            "questType": 1,
+            "goalType": 40,
+            "goalTid": 3300000001,
+            "goalValue": "10",
+            "rewards": [
+                {
+                    "category": 4,
+                    "tid": 9100000029,
+                    "count": "",
+                    "chance": 100.0,
+                    "countMin": "20",
+                    "countMax": "20",
+                    "countPerStage": "0"
+                }
+            ],
+            "useGuide": false
+        },
+        {
+            "tid": 6550000003,
+            "description": "체력 레벨업하기",
+            "name": "",
+            "tooltip": "",
+            "getPlace": "",
+            "questName": "str_ui_quest_daily_003",
+            "questTitle": "",
+            "questType": 1,
+            "goalType": 40,
+            "goalTid": 3300000002,
+            "goalValue": "10",
+            "rewards": [
+                {
+                    "category": 4,
+                    "tid": 9100000002,
+                    "count": "",
+                    "chance": 100.0,
+                    "countMin": "2000",
+                    "countMax": "2000",
+                    "countPerStage": "0"
+                }
+            ],
+            "useGuide": false
+        },
+        {
+            "tid": 6550000004,
+            "description": "체력회복량 레벨업하기",
+            "name": "",
+            "tooltip": "",
+            "getPlace": "",
+            "questName": "str_ui_quest_daily_004",
+            "questTitle": "",
+            "questType": 1,
+            "goalType": 40,
+            "goalTid": 3300000003,
+            "goalValue": "10",
+            "rewards": [
+                {
+                    "category": 4,
+                    "tid": 9100000030,
+                    "count": "",
+                    "chance": 100.0,
+                    "countMin": "20",
+                    "countMax": "20",
+                    "countPerStage": "0"
+                }
+            ],
+            "useGuide": false
+        },
+        {
+            "tid": 6550000005,
+            "description": "골동품 소환하기",
+            "name": "",
+            "tooltip": "",
+            "getPlace": "",
+            "questName": "str_ui_quest_daily_005",
+            "questTitle": "",
+            "questType": 1,
+            "goalType": 64,
+            "goalTid": 0,
+            "goalValue": "10",
+            "rewards": [
+                {
+                    "category": 4,
+                    "tid": 9100000002,
+                    "count": "",
+                    "chance": 100.0,
+                    "countMin": "2000",
+                    "countMax": "2000",
+                    "countPerStage": "0"
+                }
+            ],
+            "useGuide": false
+        },
+        {
+            "tid": 6550000006,
+            "description": "장비 강화하기",
+            "name": "",
+            "tooltip": "",
+            "getPlace": "",
+            "questName": "str_ui_quest_daily_006",
+            "questTitle": "",
+            "questType": 1,
+            "goalType": 51,
+            "goalTid": 0,
+            "goalValue": "5",
+            "rewards": [
+                {
+                    "category": 4,
+                    "tid": 9100000002,
+                    "count": "",
+                    "chance": 100.0,
+                    "countMin": "2000",
+                    "countMax": "2000",
+                    "countPerStage": "0"
+                }
+            ],
+            "useGuide": false
+        },
+        {
+            "tid": 6550000007,
+            "description": "장비 소환하기",
+            "name": "",
+            "tooltip": "",
+            "getPlace": "",
+            "questName": "str_ui_quest_daily_007",
+            "questTitle": "",
+            "questType": 1,
+            "goalType": 50,
+            "goalTid": 0,
+            "goalValue": "10",
+            "rewards": [
+                {
+                    "category": 4,
+                    "tid": 9100000002,
+                    "count": "",
+                    "chance": 100.0,
+                    "countMin": "2000",
+                    "countMax": "2000",
+                    "countPerStage": ""
+                }
+            ],
+            "useGuide": false
+        },
+        {
+            "tid": 6550000008,
+            "description": "펫 소환하기",
+            "name": "",
+            "tooltip": "",
+            "getPlace": "",
+            "questName": "str_ui_quest_daily_008",
+            "questTitle": "",
+            "questType": 1,
+            "goalType": 60,
+            "goalTid": 0,
+            "goalValue": "10",
+            "rewards": [
+                {
+                    "category": 4,
+                    "tid": 9100000002,
+                    "count": "",
+                    "chance": 100.0,
+                    "countMin": "2000",
+                    "countMax": "2000",
+                    "countPerStage": ""
+                }
+            ],
+            "useGuide": false
+        },
+        {
+            "tid": 6550000009,
+            "description": "데일리미션 완료",
+            "name": "",
+            "tooltip": "",
+            "getPlace": "",
+            "questName": "str_ui_quest_daily_009",
+            "questTitle": "",
+            "questType": 1,
+            "goalType": 200,
+            "goalTid": 0,
+            "goalValue": "6",
+            "rewards": [
+                {
+                    "category": 4,
+                    "tid": 9100000002,
+                    "count": "",
+                    "chance": 100.0,
+                    "countMin": "10000",
+                    "countMax": "10000",
+                    "countPerStage": "0"
+                }
+            ],
+            "useGuide": false
+        }
+    ]
+}

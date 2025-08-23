@@ -1,0 +1,476 @@
+{
+    "typeName": "AdvancementDataSheet",
+    "prefixID": 4110000000,
+    "infos": [
+        {
+            "tid": 4110000001,
+            "description": "",
+            "name": "str_ui_advancement_01",
+            "tooltip": "",
+            "getPlace": "",
+            "normalStageNumber": 20,
+            "costumeTid": 4101000101,
+            "currencyTid": 9100000003,
+            "currencyValue": "2000",
+            "battleTid": 5010000006,
+            "stageNumber": 1,
+            "stats": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 200,
+                    "modeType": 100,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 180,
+                    "modeType": 1,
+                    "value": "5",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4110000002,
+            "description": "",
+            "name": "str_ui_advancement_02",
+            "tooltip": "",
+            "getPlace": "",
+            "normalStageNumber": 50,
+            "costumeTid": 4101000102,
+            "currencyTid": 9100000003,
+            "currencyValue": "25000",
+            "battleTid": 5010000012,
+            "stageNumber": 1,
+            "stats": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "300",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "300",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 200,
+                    "modeType": 100,
+                    "value": "300",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 180,
+                    "modeType": 1,
+                    "value": "5",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4110000003,
+            "description": "",
+            "name": "str_ui_advancement_03",
+            "tooltip": "",
+            "getPlace": "",
+            "normalStageNumber": 90,
+            "costumeTid": 4101000103,
+            "currencyTid": 9100000003,
+            "currencyValue": "50000",
+            "battleTid": 5010000013,
+            "stageNumber": 1,
+            "stats": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "500",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "500",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 200,
+                    "modeType": 100,
+                    "value": "500",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 180,
+                    "modeType": 1,
+                    "value": "10",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4110000004,
+            "description": "",
+            "name": "str_ui_advancement_04",
+            "tooltip": "",
+            "getPlace": "",
+            "normalStageNumber": 130,
+            "costumeTid": 4101000104,
+            "currencyTid": 9100000003,
+            "currencyValue": "100000",
+            "battleTid": 5010000014,
+            "stageNumber": 1,
+            "stats": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "1000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "1000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 200,
+                    "modeType": 100,
+                    "value": "1000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 180,
+                    "modeType": 1,
+                    "value": "10",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4110000005,
+            "description": "",
+            "name": "str_ui_advancement_05",
+            "tooltip": "",
+            "getPlace": "",
+            "normalStageNumber": 160,
+            "costumeTid": 4101000105,
+            "currencyTid": 9100000003,
+            "currencyValue": "200000",
+            "battleTid": 5010000015,
+            "stageNumber": 1,
+            "stats": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "2000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "2000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 200,
+                    "modeType": 100,
+                    "value": "2000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 180,
+                    "modeType": 1,
+                    "value": "15",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4110000006,
+            "description": "",
+            "name": "str_ui_advancement_06",
+            "tooltip": "",
+            "getPlace": "",
+            "normalStageNumber": 210,
+            "costumeTid": 4101000106,
+            "currencyTid": 9100000003,
+            "currencyValue": "500000",
+            "battleTid": 5010000016,
+            "stageNumber": 1,
+            "stats": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "3000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "3000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 200,
+                    "modeType": 100,
+                    "value": "3000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 180,
+                    "modeType": 1,
+                    "value": "15",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4110000007,
+            "description": "",
+            "name": "str_ui_advancement_07",
+            "tooltip": "",
+            "getPlace": "",
+            "normalStageNumber": 260,
+            "costumeTid": 4101000107,
+            "currencyTid": 9100000003,
+            "currencyValue": "1000000",
+            "battleTid": 5010000017,
+            "stageNumber": 1,
+            "stats": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "5000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "5000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 200,
+                    "modeType": 100,
+                    "value": "5000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 180,
+                    "modeType": 1,
+                    "value": "20",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4110000008,
+            "description": "",
+            "name": "str_ui_advancement_08",
+            "tooltip": "",
+            "getPlace": "",
+            "normalStageNumber": 400,
+            "costumeTid": 4101000108,
+            "currencyTid": 9100000003,
+            "currencyValue": "3000000",
+            "battleTid": 5010000018,
+            "stageNumber": 1,
+            "stats": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "7000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "7000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 200,
+                    "modeType": 100,
+                    "value": "7000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 180,
+                    "modeType": 1,
+                    "value": "20",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4110000009,
+            "description": "",
+            "name": "str_ui_advancement_09",
+            "tooltip": "",
+            "getPlace": "",
+            "normalStageNumber": 500,
+            "costumeTid": 4101000109,
+            "currencyTid": 9100000003,
+            "currencyValue": "5000000",
+            "battleTid": 5010000023,
+            "stageNumber": 1,
+            "stats": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "10000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "10000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 200,
+                    "modeType": 100,
+                    "value": "10000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 180,
+                    "modeType": 1,
+                    "value": "25",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 4110000010,
+            "description": "",
+            "name": "str_ui_advancement_10",
+            "tooltip": "",
+            "getPlace": "",
+            "normalStageNumber": 550,
+            "costumeTid": 4101000110,
+            "currencyTid": 9100000003,
+            "currencyValue": "7000000",
+            "battleTid": 5010000024,
+            "stageNumber": 1,
+            "stats": [
+                {
+                    "type": 1,
+                    "modeType": 100,
+                    "value": "12000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 100,
+                    "value": "12000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 200,
+                    "modeType": 100,
+                    "value": "12000",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 180,
+                    "modeType": 1,
+                    "value": "25",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        }
+    ]
+}

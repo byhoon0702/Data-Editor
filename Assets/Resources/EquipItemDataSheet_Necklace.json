@@ -1,0 +1,974 @@
+{
+    "typeName": "EquipItemDataSheet",
+    "prefixID": 1702500000,
+    "infos": [
+        {
+            "tid": 1702500001,
+            "description": "호박석 목걸이",
+            "name": "str_ui_equip_necklace_001",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 0,
+            "starLevel": 1,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "1.5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "5",
+                    "perLevel": "0.1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500002,
+            "description": "루비 목걸이",
+            "name": "str_ui_equip_necklace_002",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 0,
+            "starLevel": 2,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "2",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "5.1",
+                    "perLevel": "0.11",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500003,
+            "description": "가넷 목걸이",
+            "name": "str_ui_equip_necklace_003",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 0,
+            "starLevel": 3,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "2.5",
+                    "perLevel": "0.05",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "5.2",
+                    "perLevel": "0.12",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500004,
+            "description": "진주 목걸이",
+            "name": "str_ui_equip_necklace_004",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 0,
+            "starLevel": 4,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "3",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "5.3",
+                    "perLevel": "0.13",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500005,
+            "description": "자수정 목걸이",
+            "name": "str_ui_equip_necklace_005",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 1,
+            "starLevel": 1,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "4",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "7",
+                    "perLevel": "0.15",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500006,
+            "description": "세공된 자수정 목걸이",
+            "name": "str_ui_equip_necklace_006",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 1,
+            "starLevel": 2,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "4.5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "7.1",
+                    "perLevel": "0.16",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500007,
+            "description": "부두술 목걸이",
+            "name": "str_ui_equip_necklace_007",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 1,
+            "starLevel": 3,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "7.2",
+                    "perLevel": "0.17",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500008,
+            "description": "세공된 루비 목걸이",
+            "name": "str_ui_equip_necklace_008",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 1,
+            "starLevel": 4,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "5.5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "7.3",
+                    "perLevel": "0.18",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500009,
+            "description": "악마의 목걸이",
+            "name": "str_ui_equip_necklace_009",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starLevel": 1,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "7",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "8",
+                    "perLevel": "0.2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500010,
+            "description": "주술사의 목걸이",
+            "name": "str_ui_equip_necklace_010",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starLevel": 2,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "7.5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "8.1",
+                    "perLevel": "0.21",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500011,
+            "description": "족장의 목걸이",
+            "name": "str_ui_equip_necklace_011",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starLevel": 3,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "8",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "8.2",
+                    "perLevel": "0.22",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500012,
+            "description": "바다의 목걸이",
+            "name": "str_ui_equip_necklace_012",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starLevel": 4,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "8.5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "8.3",
+                    "perLevel": "0.23",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500013,
+            "description": "화려한 목걸이",
+            "name": "str_ui_equip_necklace_013",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starLevel": 1,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "10",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "10",
+                    "perLevel": "0.25",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500014,
+            "description": "블루사파이어 목걸이",
+            "name": "str_ui_equip_necklace_014",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starLevel": 2,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "10.5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "10.1",
+                    "perLevel": "0.26",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500015,
+            "description": "문양 목걸이",
+            "name": "str_ui_equip_necklace_015",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starLevel": 3,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "11",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "10.2",
+                    "perLevel": "0.27",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500016,
+            "description": "성스러운 목걸이",
+            "name": "str_ui_equip_necklace_016",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starLevel": 4,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "11.5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "10.3",
+                    "perLevel": "0.28",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500017,
+            "description": "달의 목걸이",
+            "name": "str_ui_equip_necklace_017",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starLevel": 1,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "12.5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "15",
+                    "perLevel": "0.3",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "1",
+                    "perLevel": "0.01",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500018,
+            "description": "저주받은 청동 목걸이",
+            "name": "str_ui_equip_necklace_018",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starLevel": 2,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "13",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "15.5",
+                    "perLevel": "0.31",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "1",
+                    "perLevel": "0.01",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500019,
+            "description": "저승의 목걸이",
+            "name": "str_ui_equip_necklace_019",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starLevel": 3,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "13.5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "16",
+                    "perLevel": "0.33",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "1",
+                    "perLevel": "0.01",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500020,
+            "description": "심연의 목걸이",
+            "name": "str_ui_equip_necklace_020",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starLevel": 4,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "14",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "16.5",
+                    "perLevel": "0.35",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "1",
+                    "perLevel": "0.01",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500021,
+            "description": "에메랄드 목걸이",
+            "name": "str_ui_equip_necklace_021",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starLevel": 1,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "15",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "35",
+                    "perLevel": "0.5",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "1",
+                    "perLevel": "0.01",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500022,
+            "description": "원소의 목걸이",
+            "name": "str_ui_equip_necklace_022",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starLevel": 2,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "15.5",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "40",
+                    "perLevel": "0.6",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "1",
+                    "perLevel": "0.01",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500023,
+            "description": "용혈의 목걸이",
+            "name": "str_ui_equip_necklace_023",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starLevel": 3,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "16",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "45",
+                    "perLevel": "0.7",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "1",
+                    "perLevel": "0.01",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500024,
+            "description": "태양의 목걸이",
+            "name": "str_ui_equip_necklace_024",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starLevel": 4,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "16.7",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "50",
+                    "perLevel": "0.8",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "1",
+                    "perLevel": "0.01",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500025,
+            "description": "미카엘의 목걸이",
+            "name": "str_ui_equip_necklace_025",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starLevel": 1,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "20",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "80",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "2",
+                    "perLevel": "0.02",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 170,
+                    "modeType": 1,
+                    "value": "5",
+                    "perLevel": "0.05",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500026,
+            "description": "이프리트의 목걸이",
+            "name": "str_ui_equip_necklace_026",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starLevel": 2,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "21",
+                    "perLevel": "0.03",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "90",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "3",
+                    "perLevel": "0.03",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 170,
+                    "modeType": 1,
+                    "value": "7",
+                    "perLevel": "0.06",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500027,
+            "description": "대지신의 목걸이",
+            "name": "str_ui_equip_necklace_027",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starLevel": 3,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "22",
+                    "perLevel": "0.03",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "100",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "4",
+                    "perLevel": "0.04",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 170,
+                    "modeType": 1,
+                    "value": "8",
+                    "perLevel": "0.07",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1702500028,
+            "description": "빛의 용사의 목걸이",
+            "name": "str_ui_equip_necklace_028",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starLevel": 4,
+            "equipType": 2,
+            "equipValues": [
+                {
+                    "type": 30,
+                    "modeType": 1,
+                    "value": "25",
+                    "perLevel": "0.05",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 40,
+                    "modeType": 1,
+                    "value": "120",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 50,
+                    "modeType": 1,
+                    "value": "5",
+                    "perLevel": "0.05",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 170,
+                    "modeType": 1,
+                    "value": "10",
+                    "perLevel": "0.1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        }
+    ]
+}

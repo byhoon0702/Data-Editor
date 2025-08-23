@@ -1,0 +1,866 @@
+{
+    "typeName": "PetDataSheet",
+    "prefixID": 1300000000,
+    "infos": [
+        {
+            "tid": 1300000003,
+            "description": "도마뱀",
+            "name": "str_ui_pet_info_003",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starlevel": 0,
+            "skillTid": 1721700001,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 110,
+                    "modeType": 1,
+                    "value": "5",
+                    "perLevel": "0.1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "2",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000005,
+            "description": "앵무새",
+            "name": "str_ui_pet_info_005",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starlevel": 0,
+            "skillTid": 1721700003,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "20",
+                    "perLevel": "2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "4",
+                    "perLevel": "2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000008,
+            "description": "독수리",
+            "name": "str_ui_pet_info_008",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starlevel": 0,
+            "skillTid": 1721700011,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 120,
+                    "modeType": 1,
+                    "value": "10",
+                    "perLevel": "0.1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "4",
+                    "perLevel": "2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000007,
+            "description": "문어",
+            "name": "str_ui_pet_info_007",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 2,
+            "starlevel": 0,
+            "skillTid": 1721700004,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 110,
+                    "modeType": 1,
+                    "value": "10",
+                    "perLevel": "0.1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "4",
+                    "perLevel": "2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000001,
+            "description": "새싹",
+            "name": "str_ui_pet_info_001",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starlevel": 0,
+            "skillTid": 1721700013,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "5",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "2",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000002,
+            "description": "백구",
+            "name": "str_ui_pet_info_002",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starlevel": 0,
+            "skillTid": 1721700009,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 10,
+                    "modeType": 130,
+                    "value": "5",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "2",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000004,
+            "description": "병아리",
+            "name": "str_ui_pet_info_004",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starlevel": 0,
+            "skillTid": 1721700005,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 120,
+                    "modeType": 1,
+                    "value": "5",
+                    "perLevel": "0.1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "2",
+                    "perLevel": "1",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000006,
+            "description": "고양이",
+            "name": "str_ui_pet_info_006",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 3,
+            "starlevel": 0,
+            "skillTid": 1721700002,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 10,
+                    "modeType": 130,
+                    "value": "20",
+                    "perLevel": "2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "4",
+                    "perLevel": "2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000009,
+            "description": "꼬마버섯",
+            "name": "str_ui_pet_info_009",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starlevel": 0,
+            "skillTid": 1721700006,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "40",
+                    "perLevel": "4",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "6",
+                    "perLevel": "3",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000010,
+            "description": "꼬마 유령",
+            "name": "str_ui_pet_info_010",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starlevel": 0,
+            "skillTid": 1721700014,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 10,
+                    "modeType": 130,
+                    "value": "40",
+                    "perLevel": "4",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "6",
+                    "perLevel": "3",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000011,
+            "description": "꼬마촛불",
+            "name": "str_ui_pet_info_011",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starlevel": 0,
+            "skillTid": 1721700012,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 110,
+                    "modeType": 1,
+                    "value": "15",
+                    "perLevel": "0.2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "6",
+                    "perLevel": "3",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000012,
+            "description": "티라노",
+            "name": "str_ui_pet_info_012",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 4,
+            "starlevel": 0,
+            "skillTid": 1721700008,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 120,
+                    "modeType": 1,
+                    "value": "15",
+                    "perLevel": "0.2",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "6",
+                    "perLevel": "3",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000013,
+            "description": "불의 정령",
+            "name": "str_ui_pet_info_013",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starlevel": 0,
+            "skillTid": 1721700016,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "60",
+                    "perLevel": "6",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "8",
+                    "perLevel": "4",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000014,
+            "description": "번개의 정령",
+            "name": "str_ui_pet_info_014",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starlevel": 0,
+            "skillTid": 1721700015,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 10,
+                    "modeType": 130,
+                    "value": "60",
+                    "perLevel": "10",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "8",
+                    "perLevel": "4",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000015,
+            "description": "물의 정령",
+            "name": "str_ui_pet_info_015",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starlevel": 0,
+            "skillTid": 1721700007,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 110,
+                    "modeType": 1,
+                    "value": "30",
+                    "perLevel": "3",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "8",
+                    "perLevel": "4",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000016,
+            "description": "숲의 정령",
+            "name": "str_ui_pet_info_016",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 5,
+            "starlevel": 0,
+            "skillTid": 1721700010,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 120,
+                    "modeType": 1,
+                    "value": "30",
+                    "perLevel": "3",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "8",
+                    "perLevel": "4",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000017,
+            "description": "",
+            "name": "str_ui_pet_info_017",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starlevel": 0,
+            "skillTid": 1721700017,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "120",
+                    "perLevel": "12",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "12",
+                    "perLevel": "6",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000018,
+            "description": "",
+            "name": "str_ui_pet_info_018",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starlevel": 0,
+            "skillTid": 1721700018,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 10,
+                    "modeType": 130,
+                    "value": "120",
+                    "perLevel": "15",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "12",
+                    "perLevel": "6",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000019,
+            "description": "",
+            "name": "str_ui_pet_info_019",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starlevel": 0,
+            "skillTid": 1721700019,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 110,
+                    "modeType": 1,
+                    "value": "60",
+                    "perLevel": "6",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "12",
+                    "perLevel": "6",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        },
+        {
+            "tid": 1300000020,
+            "description": "",
+            "name": "str_ui_pet_info_020",
+            "tooltip": "",
+            "getPlace": "",
+            "itemGrade": 6,
+            "starlevel": 0,
+            "skillTid": 1721700020,
+            "maxLevel": 0,
+            "maxEvolutionLevel": 0,
+            "baseAbilities": [
+                {
+                    "type": 80,
+                    "modeType": 0,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": false,
+                    "isHyper": false
+                }
+            ],
+            "evolutionDatas": [],
+            "equipValues": [
+                {
+                    "type": 120,
+                    "modeType": 1,
+                    "value": "60",
+                    "perLevel": "6",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "ownValues": [
+                {
+                    "type": 1,
+                    "modeType": 130,
+                    "value": "12",
+                    "perLevel": "6",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ]
+        }
+    ]
+}

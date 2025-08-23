@@ -1,0 +1,596 @@
+{
+    "typeName": "AwakeningDataSheet",
+    "prefixID": 3650000000,
+    "infos": [
+        {
+            "tid": 3650000001,
+            "description": "기본각성",
+            "name": "str_ui_awakening_info_00",
+            "tooltip": "",
+            "getPlace": "",
+            "costitemTid": 9100000011,
+            "costumeTid": 4201000001,
+            "uiDescription": "str_ui_awakening_description_00",
+            "awakeningStats": [
+                {
+                    "type": 1,
+                    "modeType": 200,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 200,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 70,
+                    "modeType": 200,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 80,
+                    "modeType": 200,
+                    "value": "50",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "awakeningLevels": [
+                {
+                    "Name": "str_ui_awakening_rune_01",
+                    "MaxLevel": 10,
+                    "BaseCost": 100,
+                    "IncPerLevel": 10,
+                    "Stat": {
+                        "type": 1,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_02",
+                    "MaxLevel": 10,
+                    "BaseCost": 100,
+                    "IncPerLevel": 10,
+                    "Stat": {
+                        "type": 10,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_03",
+                    "MaxLevel": 10,
+                    "BaseCost": 100,
+                    "IncPerLevel": 10,
+                    "Stat": {
+                        "type": 30,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "0.1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_04",
+                    "MaxLevel": 10,
+                    "BaseCost": 100,
+                    "IncPerLevel": 10,
+                    "Stat": {
+                        "type": 40,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_05",
+                    "MaxLevel": 10,
+                    "BaseCost": 100,
+                    "IncPerLevel": 10,
+                    "Stat": {
+                        "type": 110,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                }
+            ],
+            "hideUI": true,
+            "defaultGet": true
+        },
+        {
+            "tid": 3650000002,
+            "description": "기본각성v2",
+            "name": "str_ui_awakening_info_01",
+            "tooltip": "",
+            "getPlace": "",
+            "costitemTid": 9100000011,
+            "costumeTid": 4201000002,
+            "uiDescription": "str_ui_awakening_description_01",
+            "awakeningStats": [
+                {
+                    "type": 1,
+                    "modeType": 200,
+                    "value": "60",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 200,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 70,
+                    "modeType": 200,
+                    "value": "70",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 80,
+                    "modeType": 200,
+                    "value": "70",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "awakeningLevels": [
+                {
+                    "Name": "str_ui_awakening_rune_01",
+                    "MaxLevel": 50,
+                    "BaseCost": 200,
+                    "IncPerLevel": 20,
+                    "Stat": {
+                        "type": 1,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_02",
+                    "MaxLevel": 50,
+                    "BaseCost": 200,
+                    "IncPerLevel": 20,
+                    "Stat": {
+                        "type": 10,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_03",
+                    "MaxLevel": 50,
+                    "BaseCost": 200,
+                    "IncPerLevel": 20,
+                    "Stat": {
+                        "type": 30,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "0.1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_04",
+                    "MaxLevel": 50,
+                    "BaseCost": 200,
+                    "IncPerLevel": 20,
+                    "Stat": {
+                        "type": 40,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_05",
+                    "MaxLevel": 50,
+                    "BaseCost": 200,
+                    "IncPerLevel": 20,
+                    "Stat": {
+                        "type": 110,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                }
+            ],
+            "hideUI": false,
+            "defaultGet": false
+        },
+        {
+            "tid": 3650000003,
+            "description": "나이트킹",
+            "name": "str_ui_awakening_info_02",
+            "tooltip": "",
+            "getPlace": "",
+            "costitemTid": 9100000011,
+            "costumeTid": 4201000003,
+            "uiDescription": "str_ui_awakening_description_02",
+            "awakeningStats": [
+                {
+                    "type": 1,
+                    "modeType": 200,
+                    "value": "80",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 200,
+                    "value": "150",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 70,
+                    "modeType": 200,
+                    "value": "80",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 80,
+                    "modeType": 200,
+                    "value": "80",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "awakeningLevels": [
+                {
+                    "Name": "str_ui_awakening_rune_01",
+                    "MaxLevel": 100,
+                    "BaseCost": 500,
+                    "IncPerLevel": 50,
+                    "Stat": {
+                        "type": 1,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_02",
+                    "MaxLevel": 100,
+                    "BaseCost": 500,
+                    "IncPerLevel": 50,
+                    "Stat": {
+                        "type": 10,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_03",
+                    "MaxLevel": 100,
+                    "BaseCost": 500,
+                    "IncPerLevel": 50,
+                    "Stat": {
+                        "type": 30,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "0.1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_04",
+                    "MaxLevel": 100,
+                    "BaseCost": 500,
+                    "IncPerLevel": 50,
+                    "Stat": {
+                        "type": 40,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_05",
+                    "MaxLevel": 100,
+                    "BaseCost": 500,
+                    "IncPerLevel": 50,
+                    "Stat": {
+                        "type": 110,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                }
+            ],
+            "hideUI": false,
+            "defaultGet": false
+        },
+        {
+            "tid": 3650000004,
+            "description": "대지의주인",
+            "name": "str_ui_awakening_info_03",
+            "tooltip": "",
+            "getPlace": "",
+            "costitemTid": 9100000011,
+            "costumeTid": 4201000004,
+            "uiDescription": "str_ui_awakening_description_03",
+            "awakeningStats": [
+                {
+                    "type": 1,
+                    "modeType": 200,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 200,
+                    "value": "200",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 70,
+                    "modeType": 200,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 80,
+                    "modeType": 200,
+                    "value": "100",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "awakeningLevels": [
+                {
+                    "Name": "str_ui_awakening_rune_01",
+                    "MaxLevel": 200,
+                    "BaseCost": 1000,
+                    "IncPerLevel": 100,
+                    "Stat": {
+                        "type": 1,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_02",
+                    "MaxLevel": 200,
+                    "BaseCost": 1000,
+                    "IncPerLevel": 100,
+                    "Stat": {
+                        "type": 10,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_03",
+                    "MaxLevel": 200,
+                    "BaseCost": 1000,
+                    "IncPerLevel": 100,
+                    "Stat": {
+                        "type": 30,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "0.1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_04",
+                    "MaxLevel": 200,
+                    "BaseCost": 1000,
+                    "IncPerLevel": 100,
+                    "Stat": {
+                        "type": 40,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_05",
+                    "MaxLevel": 200,
+                    "BaseCost": 1000,
+                    "IncPerLevel": 100,
+                    "Stat": {
+                        "type": 110,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                }
+            ],
+            "hideUI": false,
+            "defaultGet": false
+        },
+        {
+            "tid": 3650000005,
+            "description": "드래곤슬레이어",
+            "name": "str_ui_awakening_info_04",
+            "tooltip": "",
+            "getPlace": "",
+            "costitemTid": 9100000011,
+            "costumeTid": 4201000005,
+            "uiDescription": "str_ui_awakening_description_04",
+            "awakeningStats": [
+                {
+                    "type": 1,
+                    "modeType": 200,
+                    "value": "150",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 10,
+                    "modeType": 200,
+                    "value": "200",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 70,
+                    "modeType": 200,
+                    "value": "120",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                },
+                {
+                    "type": 80,
+                    "modeType": 200,
+                    "value": "120",
+                    "perLevel": "",
+                    "isPercentage": true,
+                    "isHyper": false
+                }
+            ],
+            "awakeningLevels": [
+                {
+                    "Name": "str_ui_awakening_rune_01",
+                    "MaxLevel": 300,
+                    "BaseCost": 2000,
+                    "IncPerLevel": 200,
+                    "Stat": {
+                        "type": 1,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_02",
+                    "MaxLevel": 300,
+                    "BaseCost": 2000,
+                    "IncPerLevel": 200,
+                    "Stat": {
+                        "type": 10,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_03",
+                    "MaxLevel": 300,
+                    "BaseCost": 2000,
+                    "IncPerLevel": 200,
+                    "Stat": {
+                        "type": 30,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "0.1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_04",
+                    "MaxLevel": 300,
+                    "BaseCost": 2000,
+                    "IncPerLevel": 200,
+                    "Stat": {
+                        "type": 40,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                },
+                {
+                    "Name": "str_ui_awakening_rune_05",
+                    "MaxLevel": 300,
+                    "BaseCost": 2000,
+                    "IncPerLevel": 200,
+                    "Stat": {
+                        "type": 110,
+                        "modeType": 200,
+                        "value": "0",
+                        "perLevel": "1",
+                        "isPercentage": true,
+                        "isHyper": false
+                    }
+                }
+            ],
+            "hideUI": false,
+            "defaultGet": false
+        }
+    ]
+}
